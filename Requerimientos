@@ -6,35 +6,22 @@ RF02: El administrador podrá registrar vendedores.
 
 RF03: El administrador podrá registrar ventas.
 
-RF04
+RF04: El administrador podrá registrar metas mensuales.
 
-El administrador podrá registrar metas mensuales.
+RF05: El sistema calculará automáticamente las comisiones.
 
-RF05
+RF06: El sistema mostrará rankings de vendedores.
 
-El sistema calculará automáticamente las comisiones.
+RF07: El sistema generará reportes.
 
-RF06
 
-El sistema mostrará rankings de vendedores.
-
-RF07
-
-El sistema generará reportes.
 
 Requerimientos No Funcionales
-RNF01
 
-El sistema deberá responder en menos de 3 segundos.
+RNF01: El sistema deberá responder en menos de 3 segundos.
 
-RNF02
+RNF02: La contraseña deberá almacenarse cifrada.
 
-La contraseña deberá almacenarse cifrada.
+RNF03: La interfaz deberá ser responsive.
 
-RNF03
-
-La interfaz deberá ser responsive.
-
-RNF04
-
-La base de datos será MySQL.
+RNF04: La base de datos será MySQL.
