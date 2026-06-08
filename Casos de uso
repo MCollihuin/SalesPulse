@@ -1,0 +1,20 @@
+Caso de Uso: Registrar Venta
+Actor: Administrador
+
+Flujo:
+Selecciona vendedor.
+Ingresa monto.
+Ingresa fecha.
+Guarda.
+Sistema registra venta.
+
+
+Caso de Uso: Calcular Comisión
+Actor: Sistema
+
+Flujo:
+Obtiene ventas.
+Consulta meta.
+Calcula porcentaje de cumplimiento.
+Calcula comisión.
+Guarda resultado.
