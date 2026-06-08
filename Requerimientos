@@ -1,0 +1,40 @@
+Requerimientos Funcionales
+
+RF01: El administrador podrá iniciar sesión.
+
+RF02: El administrador podrá registrar vendedores.
+
+RF03: El administrador podrá registrar ventas.
+
+RF04
+
+El administrador podrá registrar metas mensuales.
+
+RF05
+
+El sistema calculará automáticamente las comisiones.
+
+RF06
+
+El sistema mostrará rankings de vendedores.
+
+RF07
+
+El sistema generará reportes.
+
+Requerimientos No Funcionales
+RNF01
+
+El sistema deberá responder en menos de 3 segundos.
+
+RNF02
+
+La contraseña deberá almacenarse cifrada.
+
+RNF03
+
+La interfaz deberá ser responsive.
+
+RNF04
+
+La base de datos será MySQL.
